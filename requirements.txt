@@ -1,0 +1,27 @@
+# Core Bot
+discord.py==2.3.2
+python-dotenv==1.0.0
+
+# Database (MongoDB - Mongoose Equivalent)
+motor==3.3.1
+pymongo==4.5.0
+beanie==1.21.0
+
+# HTTP & API (Axios Equivalent)
+aiohttp==3.8.5
+httpx==0.24.1
+
+# Console UI & Aesthetics (Chalk, Boxen, Figlet, Gradient-string Equivalents)
+rich==13.5.2
+pyfiglet==0.8.post1
+colorama==0.4.6
+pendulum==2.1.2
+questionary==2.0.1
+
+# File System & Utilities (Chokidar, FS-extra, Micromatch Equivalents)
+watchdog==3.0.0
+
+# Web Dashboard (Express, Cors, Multer Equivalents)
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
